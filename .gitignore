@@ -1,0 +1,8 @@
+/.vscode
+
+/notes-app/node_modules
+/notes-api/node_modules
+
+#testing
+/notes-api/coverage
+/notes-api/.nyc_output
