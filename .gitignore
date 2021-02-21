@@ -1,5 +1,7 @@
 /.vscode
 
+.DS_Store
+
 /notes-app/node_modules
 /notes-api/node_modules
 
